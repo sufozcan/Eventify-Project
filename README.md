@@ -8,7 +8,7 @@ Developed for the **STAT 311 - Modern Database Systems** course at **METU**, thi
 ## Tech Stack & Implementation
 * **Database Engine:** PostgreSQL.
 * **Design Tools:** Figma for Conceptual ER Modeling.
-* **Frontend Visualization:** JavaScript & HTML/CSS (Live version available at [Eventify Frontend](https://kemalcanvologlu.github.io/eventify-frontend/)).
+* **Frontend Visualization:** JavaScript & HTML/CSS (Live version available at [Eventify Frontend](https://kemalcanyologlu.github.io/eventify-frontend/)).
 * **Data Flow:** PostgreSQL (SQL Queries) → CSV Export → JavaScript Objects → User Interface.
 
 ## Database Architecture
